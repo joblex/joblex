@@ -1,5 +1,5 @@
 # JobLex
-##A Lexico-Semantic Knowledgebase of Occupational Information Descriptors
+## A Lexico-Semantic Knowledgebase of Occupational Information Descriptors
 
 ## Description
 This repository builds a knowledgebase of organizational information descriptors.
